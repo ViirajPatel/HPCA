@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "MATRIXMUL.C": "cpp",
+        "STAR.C": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
